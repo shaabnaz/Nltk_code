@@ -1,4 +1,4 @@
-Retrieval-augmented generation (RAG)
+Retrieval-augmented generation (RAG). making chat bot
 
 Context-aware QA
 
